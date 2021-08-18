@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-<!-- **houhoz/houhoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am yazhao hou, currently focusing on front-end engineering. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🔭 I’m currently working on hangzhou.
+<!-- - 🌱 I’m currently learning interesting technology. -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: 1048997225@qq.com
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=houhoz&show_icons=true&theme=radical)](https://github.com/houhoz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houhoz)](https://github.com/houhoz)
+
 
