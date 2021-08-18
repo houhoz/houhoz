@@ -12,6 +12,6 @@ I am yazhao hou, currently focusing on front-end engineering.
 <!-- - ⚡ Fun fact: ... -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=houhoz&show_icons=true&theme=radical)](https://github.com/houhoz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houhoz)](https://github.com/houhoz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houhoz&layout=compact)](https://github.com/houhoz)
 
 
